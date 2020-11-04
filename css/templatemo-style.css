@@ -188,7 +188,7 @@ header {
 .sidebar-navigation .logo {
   position: absolute;
   width: 100%;
-  height: 140px;
+  height: 170px;
   line-height: 100px;
   background-color: #45489a;
   padding: 10px;
@@ -202,7 +202,7 @@ header {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  height: 100px;
+  height: 150px;
   width: 100%;
   display: inline-block;
   border: 1px solid rgba(250,250,250,0.5);
